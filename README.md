@@ -2,21 +2,18 @@
 
 ## Description
 ```
-A brief description of your project
+This will be a brief profile website to show employers that I have made from scratched
 
 ```
 
 
 
 ## Custom CSS Classes
-```
-The class(es) I created are:
-
-1. class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
-
-2.
-
+.ptitle {
+    text-align: center;
+    .random {
+    float: right;
+    
 ```
 
 
