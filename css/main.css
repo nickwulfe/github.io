@@ -1,8 +1,8 @@
 /* CSS reset *\
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
+v2.0 | 20110126
+License: none (public domain)
 */
 
 html,
@@ -151,15 +151,20 @@ h1 {
 }
 
 .work-exp {
-    background-color: red;
+    background-color: lightgray;
+    border: groove;
+    border-color: purple;
+    border-style: inset;
 }
 
 .code-exp {
-    background-color: magenta;
+    text-align: left;
+    border-style: inset;
 }
 
 .berke {
     background-color: blue;
+    text-align: left
 }
 
 .col {
@@ -167,7 +172,6 @@ h1 {
     width: 33%;
     height: 300px;
     margin-top: 10px;
-    text-align: center;
 }
 
 .main-footer {
@@ -179,8 +183,8 @@ h1 {
 
 p {
     color: black;
-    text-align: center;
-    display: inline-block;
+    display: block;
+    text-align: left;
 }
 
 h2 {
@@ -193,4 +197,13 @@ h3 {
 
 .random {
     float: right;
+}
+
+.ptitle {
+    text-align: center;
+}
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
 }
