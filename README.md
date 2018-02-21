@@ -22,7 +22,4 @@ This will be a brief profile website to show employers that I have made from scr
 ```
 The javascript functions I created are:
 
-1. function name ex( animate() )
-.. what function does ex( animate() is used to move the elements in the info div across the screen)
-
-```
+1: random:  to create a button that has an img on it of a pair of dice.  (located in the lower right hand corner.)  clicking the img will give an alert pop up message.
