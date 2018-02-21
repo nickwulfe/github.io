@@ -209,6 +209,14 @@ img {
     max-height: 25px;
 }
 
+.rbutton {
+    background-color: darkblue;
+}
+
+.bbutton {
+    background-color: darkblue;
+}
+
 
 /* This is my flex box section to make the website responsive and adaptive
 for different sized screens  */
